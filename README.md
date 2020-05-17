@@ -1,1 +1,2 @@
-# From-Win-to-Linux_ThinkPad-T480
+# Switching from Windows to Linux on a ThinkPad T480
+
